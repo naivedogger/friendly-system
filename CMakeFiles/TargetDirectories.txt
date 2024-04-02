@@ -1,0 +1,3 @@
+/home/hyy/stuff/RDMA/CMakeFiles/smart.dir
+/home/hyy/stuff/RDMA/CMakeFiles/edit_cache.dir
+/home/hyy/stuff/RDMA/CMakeFiles/rebuild_cache.dir
